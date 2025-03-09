@@ -1,0 +1,32 @@
+# Rider-specific
+.idea/
+*.sln.iml
+*.sln.DotSettings.user
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# NuGet dependencies
+packages/
+*.nupkg
+project.lock.json
+project.assets.json
+
+# User-specific settings
+*.user
+*.suo
+.vs/
+
+# Logs and temp files
+logs/
+*.log
+*.swp
+*.bak
+*.tmp

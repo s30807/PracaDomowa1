@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikacjaDotNet1", "AplikacjaDotNet1\AplikacjaDotNet1.csproj", "{1A622F55-6CD7-4CFF-ABFA-0D5BEF1DD941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A622F55-6CD7-4CFF-ABFA-0D5BEF1DD941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A622F55-6CD7-4CFF-ABFA-0D5BEF1DD941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A622F55-6CD7-4CFF-ABFA-0D5BEF1DD941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A622F55-6CD7-4CFF-ABFA-0D5BEF1DD941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
