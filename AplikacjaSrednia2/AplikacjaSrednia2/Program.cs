@@ -13,13 +13,13 @@ private static int CalculateMax(int[] numbers)
     return numbers.Max();
 }
 
-static double CalculateAverage(int[] numbers)
+static double CalculateAverage(int[] numbersTable)
 {
-    if (numbers == null || numbers.Length == 0)
+    if (numbersTable == null || numbersTable.Length == 0)
     {
         Console.WriteLine("Tablica nie moze byc pusta");
     }
 
-    return numbers.Average();
+    return numbersTable.Average();
 }
 }
