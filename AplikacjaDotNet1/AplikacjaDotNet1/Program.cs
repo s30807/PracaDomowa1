@@ -1,2 +1,3 @@
 ﻿Console.WriteLine("Hello, APBD!");
-Console.WriteLine("Nice to see you!");
+Console.WriteLine("It's so nice to see u!");
+Console.WriteLine("How are you?");
